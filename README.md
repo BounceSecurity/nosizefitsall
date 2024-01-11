@@ -1,10 +1,8 @@
-# Semgrep examples from the "No Size Fits All" talk
-
-This repo shows how semgrep rules can be run as part of a CI process over a number of code files.
+# Semgrep examples and slide deck from the "No Size Fits All" talk
 
 The slide deck from the talk is here:
 
-tbc
+[No Size Fits All - NDC Security.pdf](https://github.com/kamenskymic/nosizefitsall/blob/main/No%20Size%20Fits%20All%20-%20NDC%20Security.pdf)
 
 ### Code Examples
 
